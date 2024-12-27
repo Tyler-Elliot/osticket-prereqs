@@ -100,7 +100,7 @@ How to install:
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Fgp1hgR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  Install MySQL 5.5.62
@@ -127,7 +127,7 @@ Finish Installation: Make sure MySQL is running, and note your root credentials 
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5McUlBP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  Install Rewrite Module
@@ -148,7 +148,7 @@ How to install:
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/u6uRzOh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  Unzip PHP 7.3.8 in C:\PHP

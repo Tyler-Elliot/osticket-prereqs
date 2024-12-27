@@ -6,14 +6,13 @@
 This guide provides an overview of the required components and a step-by-step walkthrough for installing osTicket, an open-source help desk ticketing system.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Microsoft Azure (Virtual Machines/Compute) *minimum of 4vCPUS
+- Remote Desktop Protocol
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
@@ -22,11 +21,15 @@ This guide provides an overview of the required components and a step-by-step wa
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Enable Internet Information Services(IIS)
+- Install PHP Manager for IIS
+- Install VC Redist.x86.exe
+- Install MySQL 5.5.62
+- Install Rewrite Module
+- Unzip PHP 7.3.8 into C\:PHP Folder
+- Register PHP Manager within IIS
+- Install osTicket
+- Install HeidiSQL
 
 <h2>Installation Steps</h2>
 

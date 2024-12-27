@@ -34,7 +34,7 @@ This guide provides an overview of the required components and a step-by-step wa
 <h2>Installation Steps</h2>
 
 <p>
-![image alt](https://github.com/Tyler-Elliot/osticket-prereqs/blob/86fffb7b8e28cb3e1552a1d0cebb6eb12e791d4e/IIS.png)
+<img src="https://i.imgur.com/6mygZXg.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 </p>
@@ -58,7 +58,7 @@ How to enable IIS:
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J0V3qd1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   Install PHP Manager for IIS
@@ -79,7 +79,7 @@ How to install:
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0v1QEzU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  Install VC Redist.x86.exe

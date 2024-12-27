@@ -11,7 +11,7 @@ This guide provides an overview of the required components and a step-by-step wa
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute) *minimum of 4vCPUS
+- Microsoft Azure (Virtual Machines/Compute) 
 - Remote Desktop Protocol
 - Internet Information Services (IIS)
 
@@ -50,7 +50,7 @@ How to enable IIS:
 
 -Turn Windows Features On or Off: Locate and click Programs → Turn Windows features on or off.
 
--Enable IIS: Check the box labeled Internet Information Services. Make sure you also expand World Wide Web Services → Application Development Features and select what you need (e.g., CGI).
+-Enable IIS: Check the box labeled Internet Information Services. Make sure you also expand World Wide Web Services → Application Development Features and select what you need (CGI).
 
 -Click OK: Windows will install and enable IIS.
 </p>
@@ -68,7 +68,7 @@ PHP Manager simplifies the management of one or more PHP installations on IIS. I
 
 How to install:
 
--Download PHP Manager: Go to the official Microsoft IIS site or search “PHP Manager for IIS” and download the installer (e.g., PHPManagerForIIS-1.2.0.msi).
+-Download PHP Manager: Go to the official Microsoft IIS site or search “PHP Manager for IIS” and download the installer ( PHPManagerForIIS-1.2.0.msi).
 
 -Run the Installer: Double-click the MSI file and follow the prompts.
 
@@ -118,7 +118,7 @@ Configure MySQL:
 -Root Password: Set a strong root password.
 -Create a Database (Optional at this point): You can create a separate database for osTicket later.
 
-Service Settings: Accept defaults (e.g., MySQL running as a service).
+Service Settings: Accept defaults ( MySQL running as a service).
 
 Finish Installation: Make sure MySQL is running, and note your root credentials for later.
 
@@ -170,7 +170,7 @@ How to do it:
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9yC9CiH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  Register PHP Manager Within IIS
@@ -195,7 +195,7 @@ How to register PHP in IIS:
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Hwsznfo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  Install osTicket
@@ -207,7 +207,7 @@ How to install:
 
 -Download osTicket: From osTicket.com, get the latest stable release (or your preferred version).
 
--Extract Files: Unzip the osTicket files into a folder under your IIS web root (e.g., C:\inetpub\wwwroot\osticket).
+-Extract Files: Unzip the osTicket files into a folder under your IIS web root (C:\inetpub\wwwroot\osticket).
 
 -Set Permissions: Ensure C:\inetpub\wwwroot\osticket\include\ost-config.php is writable by IIS.
 
@@ -224,7 +224,7 @@ How to install:
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kJpdXTP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  Install HeidiSQL
@@ -238,7 +238,7 @@ How to install:
 
 -Run the Installer: Accept defaults or customize the installation path.
 
--Launch HeidiSQL: Connect to MySQL using your root credentials (or a specific osTicket user you set up).
+-Launch HeidiSQL: Create a database called "osTicket". Connect to MySQL using your root credentials in osTicket (or a specific osTicket user you set up).
 
 -Explore Databases: You can create, edit, or back up the osTicket database as needed
 

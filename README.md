@@ -34,7 +34,9 @@ This guide provides an overview of the required components and a step-by-step wa
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/eb4380db-5850-42d6-9ce8-04f7ea9a450f.png)
+
+
 </p>
 <p>
 Enable Internet Information Services (IIS)

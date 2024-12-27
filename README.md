@@ -34,7 +34,7 @@ This guide provides an overview of the required components and a step-by-step wa
 <h2>Installation Steps</h2>
 
 <p>
-![image](https://github.com/user-attachments/assets/eb4380db-5850-42d6-9ce8-04f7ea9a450f.png)
+![image alt](https://github.com/Tyler-Elliot/osticket-prereqs/blob/86fffb7b8e28cb3e1552a1d0cebb6eb12e791d4e/IIS.png)
 
 
 </p>
